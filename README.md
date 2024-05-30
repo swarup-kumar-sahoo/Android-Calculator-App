@@ -1,0 +1,15 @@
+# Android-Calculator-App
+This is an easy-to-use Android calculator designed for quick and efficient calculations. Whether you need to perform basic arithmetic operations like addition, subtraction, multiplication, or division, this app provides a straightforward solution without any unnecessary features.
+
+# Features
+1. User-Friendly Interface: Simple and intuitive design for easy navigation.
+2. Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+3. Real-Time Calculation: Instantly displays results as you type.
+4. Error Handling: Gracefully handles common input errors.
+
+# Usage
+
+1. Launch the Simple Calculator app on your Android device.
+2. Use the numeric keypad to input numbers.
+3. Select the desired arithmetic operation (+, -, *, /).
+4. Press the "=" button to see the result.
